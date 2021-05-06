@@ -1,3 +1,8 @@
-requests==2.25.1
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
 jsons==1.4.2
 pyTelegramBotAPI==3.7.7
+requests==2.25.1
+typish==1.9.2
+urllib3==1.26.4
